@@ -50,11 +50,13 @@
   padding: 0px;
 }
 
-.task-list-elem, .header {
+.task-list-elem,
+.header {
   list-style: none;
 }
 
-.inputs, .buttons{
+.inputs,
+.buttons {
   outline: none;
 }
 
